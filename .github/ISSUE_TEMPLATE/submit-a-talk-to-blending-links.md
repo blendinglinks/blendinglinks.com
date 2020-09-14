@@ -7,12 +7,12 @@ assignees: asarturas
 
 ---
 
-**Talk recording url:** [https://...](https://...)
+**Talk recording url:**  https://...
 (public youtube or video, please)
 
-**Paste a talk location on blending links:** [https://blendinglinks.com/...](https://blendinglinks.com/...)
+**Paste a talk location on blending links:**  https://blendinglinks.com/...
 (if talk already exists, but is incorrect or incomplete)
 
 **Suggested tags:** 
 
-**Official talk website or page on conference website (optional):**
+**Official talk website or page on conference website (optional):**  https://...
